@@ -10,7 +10,7 @@ This is an python application were you can flash images!
 
 # Installation :
 
-1. Firstly we need to clone my repository with this command : git clone https://github.com/f>
+1. Firstly we need to clone my repository with this command : git clone https://github.com/fenyox-ok/Simple-Imager.git
 2. we need to go in the repo with this command : cd ./Simple-Imager
 3. And lastly we need to run the install script with this command : ./install.sh
 
