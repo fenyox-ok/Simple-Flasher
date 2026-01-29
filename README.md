@@ -1,6 +1,6 @@
 # Simple-Flasher
 
-This is an python application were you can flash images!
+This is a simple and ligthweight python application were you can flash images!
 
 # The things you will need :
 
