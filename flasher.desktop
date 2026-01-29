@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Simple Flasher
+Comment=This is a Simple Image Flasher Utility
+Exec=python3 /bin/flasher.py
+Icon=/usr/share/pixmaps/usb.png
+Terminal=false
+Type=Application
+Categories=Utility;
