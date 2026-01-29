@@ -28,5 +28,3 @@ This is an python application were you can flash images!
 
 by running this command : python /bin/flasher.py
 or more simply by just clicking the desktop icon
-
-# And Done, Enjoy!
