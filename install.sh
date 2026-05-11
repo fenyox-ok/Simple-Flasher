@@ -3,7 +3,7 @@ echo Hello
 echo I will now install Simple Flasher
 
 sudo usermod -aG disk $USER
-sudo cp ./flasher.py /bin
+sudo cp ./flasher.py /bin/
 sudo cp ./flasher.desktop /usr/share/applications/
 sudo cp ./usb.png /usr/share/pixmaps/
 
